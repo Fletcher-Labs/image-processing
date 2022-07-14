@@ -1,2 +1,3 @@
 # image-processing
-Some Fermi3 rotini analysis to show the basics
+
+A suite of relevant image processing tools.
